@@ -6,6 +6,8 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.Windows.Media;
+using System.Windows;
 
 namespace Calculator.CheckBook
 {
@@ -49,8 +51,37 @@ namespace Calculator.CheckBook
         private double _Amount;
         public double Amount
         {
-            get { return _Amount; }
-            set { _Amount = value; OnPropertyChanged(); OnPropertyChanged("Currency2"); }
+            get
+            {
+                if (_Amount > 10)
+                {
+                    SolidColorBrush MyBrush = Brushes.Red;
+                    Application.Current.Resources["DynamicBG"] = MyBrush;
+                }
+                else
+                {
+                    SolidColorBrush MyBrush = Brushes.Green;
+                    Application.Current.Resources["DynamicBG"] = MyBrush;
+                }
+
+                return _Amount;
+            }
+            set
+            {
+                if (value > 10)
+                {
+                    SolidColorBrush MyBrush = Brushes.Red;
+                    Application.Current.Resources["DynamicBG"] = MyBrush;
+                }
+                else
+                {
+                    SolidColorBrush MyBrush = Brushes.Green;
+                    Application.Current.Resources["DynamicBG"] = MyBrush;
+                }
+                _Amount = value;
+
+                OnPropertyChanged("Amount"); OnPropertyChanged("Currency2");
+            }
         }
 
         public double Currency2
