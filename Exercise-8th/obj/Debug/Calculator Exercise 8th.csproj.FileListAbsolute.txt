@@ -1,0 +1,23 @@
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\customerDetails.mdf
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\customerDetails_log.ldf
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\Exercise-8th.exe.config
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\Exercise-8th.exe
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\Exercise-8th.pdb
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\EntityFramework.dll
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\EntityFramework.xml
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Calculator Exercise 8th.csprojResolveAssemblyReference.cache
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\MainWindow.baml
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\MainWindow.g.cs
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\App.g.cs
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Exercise-8th_Content.g.cs
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Exercise-8th_MarkupCompile.cache
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Exercise-8th.g.resources
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Exercise_8th.Properties.Resources.resources
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Calculator Exercise 8th.csproj.GenerateResource.Cache
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Exercise-8th.exe
+C:\Users\Uday Srivastav P\Downloads\Calculator\Calculator\Exercise-8th\obj\Debug\Exercise-8th.pdb
